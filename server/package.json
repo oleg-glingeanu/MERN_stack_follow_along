@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "node server/index.js",
-    "dev": "nodemon server/index.js"
+    "start": "node index.js",
+    "dev": "nodemon ndex.js"
   },
   "dependencies": {
     "colors": "^1.4.0",
